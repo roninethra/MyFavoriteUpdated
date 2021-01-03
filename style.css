@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(#ef9a9a 0%, #f48fb1 100%);
+        text-align: center;
+}
+.menu{
+    margin-right: 100px;
+    list-style: none;
+    float:right;
+    }
+.menu a:hover{
+    background-color: #e1bee7;
+}
+.menu li{
+    display: inline;
+    margin: 10px;
+    font-family: Chewy;
+    font-size: 20px;
+}
+.menu li a{
+    padding: 5px;
+}
+#About{
+    text-align: center;
+}
+img{
+    margin-top: 50px;
+    border-radius: 60%;
+  height:750px;
+    width: 750px;
+}
